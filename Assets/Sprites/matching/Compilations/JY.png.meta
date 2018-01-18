@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 865887b127cf5ba4c8c59ddcaf3903fa
+timeCreated: 1515662615
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JY_00000
+    21300002: JY_00001
+    21300004: JY_00002
+    21300006: JY_00003
+    21300008: JY_00004
+    21300010: JY_00005
+    21300012: JY_00006
+    21300014: JY_00007
+    21300016: JY_00008
+    21300018: JY_00009
+    21300020: JY_00010
+    21300022: JY_00011
+    21300024: JY_00012
+    21300026: JY_00013
+    21300028: JY_00014
+    21300030: JY_00015
+    21300032: JY_00016
+    21300034: JY_00017
+    21300036: JY_00018
+    21300038: JY_00019
+    21300040: JY_00020
+    21300042: JY_00021
+    21300044: JY_00022
+    21300046: JY_00023
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JY_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00001
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00002
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00003
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00004
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 729
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00006
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 729
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00007
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 729
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00008
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 729
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00009
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 729
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 581
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00011
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 581
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00012
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 581
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00013
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 581
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00014
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 581
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00015
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00016
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 433
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00017
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 433
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00018
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00019
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 877
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00020
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 433
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00021
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 433
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00022
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_00023
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 285
+        width: 200
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f46565cdffb59636b9cc0d55d846de9a:10517aded725971063b2661234439d62:03ed06dc7989ad3eed192a2bcb7e47ad$
+#
+:format=40300
+:texture=Order time.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+Order time_00000;1;923;220;100; 0.5;0.5; 0;0;0;0
+Order time_00001;223;923;220;100; 0.5;0.5; 0;0;0;0
+Order time_00002;445;923;220;100; 0.5;0.5; 0;0;0;0
+Order time_00003;667;923;220;100; 0.5;0.5; 0;0;0;0
+Order time_00004;1;821;220;100; 0.5;0.5; 0;0;0;0
+Order time_00005;223;821;220;100; 0.5;0.5; 0;0;0;0
+Order time_00006;445;821;220;100; 0.5;0.5; 0;0;0;0
+Order time_00007;667;821;220;100; 0.5;0.5; 0;0;0;0
+Order time_00008;1;719;220;100; 0.5;0.5; 0;0;0;0
+Order time_00009;223;719;220;100; 0.5;0.5; 0;0;0;0
+Order time_00010;445;719;220;100; 0.5;0.5; 0;0;0;0
+Order time_00011;667;719;220;100; 0.5;0.5; 0;0;0;0
+Order time_00012;1;617;220;100; 0.5;0.5; 0;0;0;0
+Order time_00013;223;617;220;100; 0.5;0.5; 0;0;0;0
+Order time_00014;445;617;220;100; 0.5;0.5; 0;0;0;0
+Order time_00015;667;617;220;100; 0.5;0.5; 0;0;0;0
+Order time_00016;1;515;220;100; 0.5;0.5; 0;0;0;0
+Order time_00017;223;515;220;100; 0.5;0.5; 0;0;0;0
+Order time_00018;445;515;220;100; 0.5;0.5; 0;0;0;0
+Order time_00019;667;515;220;100; 0.5;0.5; 0;0;0;0
+Order time_00020;1;413;220;100; 0.5;0.5; 0;0;0;0
+Order time_00021;223;413;220;100; 0.5;0.5; 0;0;0;0
+Order time_00022;445;413;220;100; 0.5;0.5; 0;0;0;0
+Order time_00023;667;413;220;100; 0.5;0.5; 0;0;0;0

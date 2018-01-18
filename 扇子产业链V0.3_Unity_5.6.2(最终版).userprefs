@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="扇子产业链V0.3_Unity_5.6.2(最终版).csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Order\OrderConfig.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Order\OrderConfig.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 7d708df5087732648a926148784169a2
+timeCreated: 1515738946
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Order time_00000
+    21300002: Order time_00001
+    21300004: Order time_00002
+    21300006: Order time_00003
+    21300008: Order time_00004
+    21300010: Order time_00005
+    21300012: Order time_00006
+    21300014: Order time_00007
+    21300016: Order time_00008
+    21300018: Order time_00009
+    21300020: Order time_00010
+    21300022: Order time_00011
+    21300024: Order time_00012
+    21300026: Order time_00013
+    21300028: Order time_00014
+    21300030: Order time_00015
+    21300032: Order time_00016
+    21300034: Order time_00017
+    21300036: Order time_00018
+    21300038: Order time_00019
+    21300040: Order time_00020
+    21300042: Order time_00021
+    21300044: Order time_00022
+    21300046: Order time_00023
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Order time_00000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 923
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00001
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 923
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00002
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 923
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00003
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 923
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 821
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00005
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 821
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00006
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 821
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00007
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 821
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 719
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00009
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 719
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00010
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 719
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00011
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 719
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 617
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00013
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 617
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00014
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 617
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00015
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 617
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 515
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00017
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 515
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00018
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 515
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00019
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 515
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00020
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 413
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00021
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 413
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00022
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 413
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Order time_00023
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 413
+        width: 220
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2dd9e1bd8b042f54ce409a981f799ffd:ec4024edbbf86424ddf05f48fe8f64ca:2d71cd283bcc0ec51cb2684c6f9d33bd$
+#
+:format=40300
+:texture=Assemble the fan2.png
+:size=8192x8192
+:pivotpoints=enabled
+:borders=disabled
+
+Assemble the fan_00031;1;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00032;1083;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00033;2165;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00034;3247;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00035;4329;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00036;5411;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00037;6493;6271;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00038;1;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00039;1083;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00040;2165;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00041;3247;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00042;4329;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00043;5411;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00044;6493;4349;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00045;1;2427;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00046;1083;2427;1080;1920; 0.5;0.5; 0;0;0;0
+Assemble the fan_00047;2165;2427;1080;1920; 0.5;0.5; 0;0;0;0

@@ -1,0 +1,38 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:33f7ca93ffdbc46938ee91250e45aacb:fafcc7e5cdb01de2cd824f04584ab840:68bae2c5b1a2814dc60d784e82cdfe98$
+#
+:format=40300
+:texture=Total time.png
+:size=4096x4096
+:pivotpoints=enabled
+:borders=disabled
+
+Total time_00000;1;3475;800;620; 0.5;0.5; 0;0;0;0
+Total time_00001;803;3475;800;620; 0.5;0.5; 0;0;0;0
+Total time_00002;1605;3475;800;620; 0.5;0.5; 0;0;0;0
+Total time_00003;2407;3475;800;620; 0.5;0.5; 0;0;0;0
+Total time_00004;3209;3475;800;620; 0.5;0.5; 0;0;0;0
+Total time_00005;1;2853;800;620; 0.5;0.5; 0;0;0;0
+Total time_00006;803;2853;800;620; 0.5;0.5; 0;0;0;0
+Total time_00007;1605;2853;800;620; 0.5;0.5; 0;0;0;0
+Total time_00008;2407;2853;800;620; 0.5;0.5; 0;0;0;0
+Total time_00009;3209;2853;800;620; 0.5;0.5; 0;0;0;0
+Total time_00010;1;2231;800;620; 0.5;0.5; 0;0;0;0
+Total time_00011;803;2231;800;620; 0.5;0.5; 0;0;0;0
+Total time_00012;1605;2231;800;620; 0.5;0.5; 0;0;0;0
+Total time_00013;2407;2231;800;620; 0.5;0.5; 0;0;0;0
+Total time_00014;3209;2231;800;620; 0.5;0.5; 0;0;0;0
+Total time_00015;1;1609;800;620; 0.5;0.5; 0;0;0;0
+Total time_00016;803;1609;800;620; 0.5;0.5; 0;0;0;0
+Total time_00017;1605;1609;800;620; 0.5;0.5; 0;0;0;0
+Total time_00018;2407;1609;800;620; 0.5;0.5; 0;0;0;0
+Total time_00019;3209;1609;800;620; 0.5;0.5; 0;0;0;0
+Total time_00020;1;987;800;620; 0.5;0.5; 0;0;0;0
+Total time_00021;803;987;800;620; 0.5;0.5; 0;0;0;0
+Total time_00022;1605;987;800;620; 0.5;0.5; 0;0;0;0
+Total time_00023;2407;987;800;620; 0.5;0.5; 0;0;0;0

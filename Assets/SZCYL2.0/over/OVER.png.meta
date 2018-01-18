@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 6a265675aff642b4885db167165e53d7
+timeCreated: 1515826411
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CH_O3_O
+    21300002: CHrw_O3_O
+    21300004: CQch_O2_O
+    21300006: CQgz_O2_O
+    21300008: DM_O1_O
+    21300010: HQ_O1_O
+    21300012: HQ_O3_O
+    21300014: HQmj_O2_O
+    21300016: HQmj_O3_O
+    21300018: HQmjz_O2_O
+    21300020: JY_O1_O
+    21300022: XY_O1_O
+    21300024: XYhz_O2_O
+    21300026: XYsh_O1_O
+    21300028: ZG_O3_O
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CH_O3_O
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1647
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CHrw_O3_O
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1647
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CQch_O2_O
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1647
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: CQgz_O2_O
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1245
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DM_O1_O
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1245
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HQ_O1_O
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1245
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HQ_O3_O
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 843
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HQmj_O2_O
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 843
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HQmj_O3_O
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 843
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HQmjz_O2_O
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JY_O1_O
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 441
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: XY_O1_O
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 441
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: XYhz_O2_O
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: XYsh_O1_O
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 39
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ZG_O3_O
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 39
+        width: 600
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

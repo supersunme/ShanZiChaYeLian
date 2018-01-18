@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:85fc719dcca2310ec1afbc8cea136f69:55e983a18d2962be072047fc31ad80ba:7cc06360da46b5ab61ae67a1abb7a4c9$
+#
+:format=40300
+:texture=Tutorial character.png
+:size=4096x1024
+:pivotpoints=enabled
+:borders=disabled
+
+01;1;725;684;298; 0.5;0.5; 0;0;0;0
+02;687;725;684;298; 0.5;0.5; 0;0;0;0
+03;1373;725;684;298; 0.5;0.5; 0;0;0;0
+04;2059;725;684;298; 0.5;0.5; 0;0;0;0
+5-1;2745;725;684;298; 0.5;0.5; 0;0;0;0
+05;1;425;684;298; 0.5;0.5; 0;0;0;0
+06-1;687;425;684;298; 0.5;0.5; 0;0;0;0
+06;1373;425;684;298; 0.5;0.5; 0;0;0;0
+07-1;2059;425;684;298; 0.5;0.5; 0;0;0;0
+07;2745;425;684;298; 0.5;0.5; 0;0;0;0
+08;1;125;684;298; 0.5;0.5; 0;0;0;0
+09-1;687;125;684;298; 0.5;0.5; 0;0;0;0
+09;1373;125;684;298; 0.5;0.5; 0;0;0;0

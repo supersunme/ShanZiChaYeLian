@@ -1,0 +1,57 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/matching/Compilations/CQ.tpsheet
+- Assets/Sprites/matching/Compilations/DM.tpsheet
+- Assets/Sprites/matching/Compilations/HQ.tpsheet
+- Assets/Sprites/matching/Compilations/JY.tpsheet
+- Assets/Sprites/matching/Compilations/Si.tpsheet
+- Assets/Sprites/matching/Compilations/XY.tpsheet
+- Assets/Sprites/matching/Compilations/Zhi.tpsheet
+- Assets/Sprites/Studylevel/dialog/20180112产业链教学关对话文字/Tutorial character.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/GuideXY1.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/hand2.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order halo.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order time.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order XY.tpsheet
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Total time.tpsheet
+- Assets/SZCYL2.0/OrderComplete/Assemble the fan1.tpsheet
+- Assets/SZCYL2.0/OrderComplete/Assemble the fan2.tpsheet
+- Assets/SZCYL2.0/over/OVER.tpsheet
+textureFileNames:
+- Assets/Sprites/matching/Compilations/CQ.png
+- Assets/Sprites/matching/Compilations/DM.png
+- Assets/Sprites/matching/Compilations/HQ.png
+- Assets/Sprites/matching/Compilations/JY.png
+- Assets/Sprites/matching/Compilations/Si.png
+- Assets/Sprites/matching/Compilations/XY.png
+- Assets/Sprites/matching/Compilations/Zhi.png
+- Assets/Sprites/Studylevel/dialog/20180112产业链教学关对话文字/Tutorial character.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/GuideXY1.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/hand2.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order halo.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order time.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Order XY.png
+- Assets/Sprites/Studylevel/Tutorial halo/Tutorial halo/Total time.png
+- Assets/SZCYL2.0/OrderComplete/Assemble the fan1.png
+- Assets/SZCYL2.0/OrderComplete/Assemble the fan2.png
+- Assets/SZCYL2.0/over/OVER.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0
